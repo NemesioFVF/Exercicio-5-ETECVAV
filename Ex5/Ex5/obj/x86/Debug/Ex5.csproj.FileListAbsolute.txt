@@ -1,0 +1,7 @@
+C:\Users\etecvav\Desktop\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\etecvav\Desktop\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\etecvav\Desktop\Ex5\Ex5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\etecvav\Desktop\Ex5\Ex5\obj\x86\Debug\Ex5.exe
+C:\Users\etecvav\Desktop\Ex5\Ex5\obj\x86\Debug\Ex5.pdb
+G:\Etec\C#\Ex5\Ex5\obj\x86\Debug\Ex5.exe
+G:\Etec\C#\Ex5\Ex5\obj\x86\Debug\Ex5.pdb
